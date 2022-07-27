@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "penpab-eats-dev",
+    "dev": "penpab-eats-dev"
+  },
+  "targets": {},
+  "etags": {}
+}

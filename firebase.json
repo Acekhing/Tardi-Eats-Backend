@@ -1,0 +1,13 @@
+{
+  "hosting": {
+    "rewrites": [
+      {
+        "source": "**",
+        "function": "TardiEatsApi"
+      }
+    ]
+  },
+  "functions": {
+    "source": "functions"
+  }
+}
